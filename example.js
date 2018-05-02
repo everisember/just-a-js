@@ -8,7 +8,7 @@ function championsWinner(team){
 }
 
 const team = {
-	nombre: 'Bayer de Munich';
+	nombre: 'Bayer de Munich'
 };
 
 // Whats the result?
